@@ -1,8 +1,4 @@
 Git is popular version control system
 Maven is build tool for java
-<<<<<<< HEAD
 Jenkins is a popular devops tool
 Docker is popular container run time
-=======
-Jenkins is a popular devops tool
->>>>>>> parent of 71c0d89 (added Docker)
