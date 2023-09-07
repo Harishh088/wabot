@@ -1,9 +1,5 @@
 Git is popular version control system
 Maven is build tool for java
 Jenkins is a popular devops tool
-<<<<<<< HEAD
 Docker is popular container run time
-=======
-Docker is popular container run time 
-kubernetes is container orchestration tool
->>>>>>> parent of d4e37be (added docker)
+Ansible is easy to learn
