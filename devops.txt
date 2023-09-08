@@ -4,3 +4,4 @@ Jenkins is a popular devops tool
 Docker is popular container run timegit
 Ansible is easy to learn
 Jira is a bug tracking tool
+Argo CD is a Kubernetes continuous deployment
