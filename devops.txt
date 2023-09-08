@@ -3,3 +3,4 @@ Maven is build tool for java
 Jenkins is a popular devops tool
 Docker is popular container run timegit
 Ansible is easy to learn
+Jira is a bug tracking tool
